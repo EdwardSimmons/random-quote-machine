@@ -1,0 +1,30 @@
+#quote-box {
+    width: 50vw;
+}
+
+.quote-text {
+    font-size: 20;
+}
+
+.quote-author {
+    font-size: 14;
+    text-align: right;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+}
+
+.icon {
+    color: white;
+    height: 20px;
+}
+
+.button {
+    background-color: white;
+    border-radius: 20%;
+}
